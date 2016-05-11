@@ -1,10 +1,5 @@
-Sinatra
-=============
+Simple Contact List App on the web 
 
-Brought to you by Lighthouse Labs
+Uses Ajax to make API calls to retrieve data from Rails Server
 
-## Getting Started
-
-1. `bundle install`
-2. `shotgun -p 3000 -o 0.0.0.0`
-3. Visit `http://localhost:3000/` in your browser
+![Alt text](/public/images/1.png?raw=true)
